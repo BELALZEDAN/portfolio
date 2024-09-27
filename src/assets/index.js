@@ -19,9 +19,9 @@ import angular from "./tech/angular.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import php from "./tech/php.png";
-import laravel from "./tech/laravel.png";
-import mysql from "./tech/mysql.jpeg";
+// import php from "./tech/php.png";
+// import laravel from "./tech/laravel.png";
+// import mysql from "./tech/mysql.jpeg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -32,9 +32,9 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  php,
-  laravel,
-  mysql,
+  // php,
+  // laravel,
+  // mysql,
   logo,
   backend,
   creator,
@@ -55,7 +55,6 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
   meta,
   shopify,
   starbucks,

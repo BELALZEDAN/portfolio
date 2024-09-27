@@ -15,10 +15,7 @@ import {
     carrent,
     jobit,
     tripguide,
-    php,
-    laravel,
-    mysql,
-    threejs,
+    
 
   } from "../assets";
   
@@ -65,20 +62,20 @@ import {
       name: "CSS 3",
       icon: css,
     },
-    {
-      name: "PHP",
-      icon: php
-    },
+    // {
+    //   name: "PHP",
+    //   icon: php
+    // },
     
-    {
-      name: "laravel",
-      icon: laravel
-    },
+    // {
+    //   name: "laravel",
+    //   icon: laravel
+    // },
     
-    {
-      name: "mysql",
-      icon: mysql
-    },
+    // {
+    //   name: "mysql",
+    //   icon: mysql
+    // },
     {
       name: "JavaScript",
       icon: javascript,
@@ -87,26 +84,14 @@ import {
       name: "TypeScript",
       icon: typescript,
     },
-    // {
-    //   name: "Php",
-    //   icon: php ,
-    // },
-    // {
-    //   name: "Laravel",
-    //   icon: laravel ,
-    // },
-    // {
-    //   name: "MYSQL",
-    //   icon: mysql ,
-    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
+    // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
     {
       name: "git",
       icon: git,
