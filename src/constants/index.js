@@ -15,6 +15,9 @@ import {
     carrent,
     jobit,
     tripguide,
+    php,
+    laravel,
+    mysql,
     threejs,
 
   } from "../assets";
@@ -61,6 +64,20 @@ import {
     {
       name: "CSS 3",
       icon: css,
+    },
+    {
+      name: "PHP",
+      icon: php
+    },
+    
+    {
+      name: "laravel",
+      icon: laravel
+    },
+    
+    {
+      name: "mysql",
+      icon: mysql
     },
     {
       name: "JavaScript",
